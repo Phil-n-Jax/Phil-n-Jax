@@ -1,4 +1,4 @@
-## <img width="375" height="375" alt="55B86039-17FE-4CA7-B5B3-89FF60015C1B" src="https://github.com/user-attachments/assets/757256e0-6f74-4db6-a24f-9e4bdf7cf757" />
+## <img width="175" height="175" alt="55B86039-17FE-4CA7-B5B3-89FF60015C1B" src="https://github.com/user-attachments/assets/757256e0-6f74-4db6-a24f-9e4bdf7cf757" />
   Hello!
 
 <!--
